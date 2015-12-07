@@ -2,7 +2,7 @@
 (function(){
 	'use strict';
 	var generators = {
-				liºral: function (request) {
+				literal: function (request) {
 					return request.value;
 				},
 				size: function(request) {
