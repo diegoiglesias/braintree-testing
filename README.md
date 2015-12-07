@@ -17,7 +17,7 @@ editable field.
 
 ##Features
 
-* Convenient access to Braintree test payment data
+* Fast access to Braintree test payment data: Successful and Unsuccessful credit cards numbers
 * Works on input fields, text areas, content editable DIVs
 * Works on multi-frame pages, but only if they are from the same domain
 * Only works in Chrome
@@ -33,5 +33,5 @@ Twitter: [@diego_iglesias](https://twitter.com/diego_iglesias)
 
 ##Credits
 
-Thanks to [@gojkoadzic](http://twitter.com/gojkoadzic) and [@facundofarias][https://twitter.com/facundofarias] for the baseline.
+Thanks to [@gojkoadzic](http://twitter.com/gojkoadzic) and [@facundofarias](https://twitter.com/facundofarias) for the baseline.
 Icons by Font Awesome: http://fortawesome.github.io/Font-Awesome/
