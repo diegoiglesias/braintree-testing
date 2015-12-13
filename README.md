@@ -5,6 +5,7 @@ Basically it's a simplified version of [Test Payments](https://github.com/facund
 
 Original fork of [test-payments](https://github.com/facundofarias/test-payments).
 
+<img src="https://lh3.googleusercontent.com/_L5a3WL6h_l14iGb-gkonT11OrWbWbECVT_JgvTTPo45g9zLcWcwcYJ4-VwdBczvu5Gr17pjrg=s1280-h800-e365-rw" width="600" />
 
 ##Usage
 
