@@ -1,6 +1,6 @@
 {
 	"name": "Braintree Testing",
-	"description": "Right-click context menu to fill form elements with Briantree's testing credit cards numbers",
+	"description": "Right-click context menu to fill form elements with Braintree's testing credit cards numbers",
 	"version": "0.1",
 	"permissions": ["contextMenus"],
 	"background": {
