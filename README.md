@@ -1,6 +1,6 @@
 #Braintree Testing
 
-Right-click context menu to fill form elements with Briantree's testing credit cards numbers. Currently Chrome only.
+Right-click context menu to fill form elements with Braintree's testing credit cards numbers. Currently Chrome only.
 Basically it's a simplified version of [Test Payments](https://github.com/facundofarias/test-payments) but focused on Braintree.
 
 Original fork of [test-payments](https://github.com/facundofarias/test-payments).
